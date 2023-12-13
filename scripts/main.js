@@ -1,5 +1,5 @@
 var caption = document.querySelector('h2');
-caption.textContent = 'Hi from Andrey!';
+caption.textContent = 'Hi from Header 2!';
 
 
 var image = document.querySelector('img');
