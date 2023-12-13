@@ -1,0 +1,39 @@
+h2 {
+    color: aquamarine;
+}
+
+html {
+    font-family: 'Martel', serif;
+    font-size: 10px;
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+
+    margin: 0;
+    padding: 20px 0;
+    color: cornflowerblue;
+    text-shadow: 3px 5px 7px black;
+}
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    background-color: darkcyan;
+    width: 1700px;
+    margin: auto auto;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
